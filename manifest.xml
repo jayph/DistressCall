@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>DistressCall</Name>
+  <Guid>a867c13e-02c3-42a9-96b4-a6426c7cb1e8</Guid>
+  <Repository>None</Repository>
+  <Version>v1.0.0</Version>
+</PluginManifest>
